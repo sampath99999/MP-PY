@@ -1,0 +1,9 @@
+build
+dist
+nginx
+redis
+fms-apis
+hrms-apis
+fms-ui
+hrms-ui
+php
